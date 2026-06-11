@@ -4,8 +4,7 @@ utviklet en teknologisk løsning som kan støtte intern kommunikasjon mellom ans
 som har pause. Målet var å bedre kommunikasjonen uten å forstyrre arbeidsflyten.
 
 Den tekniske løsningen består av to filen:
-BACKROOM.ino
-DISK.ino
+BACKROOM.ino, DISK.ino
 
 Den tekniske løsningen er spredt over to Arduino UNOer og er ment til å effektivisere kommunikasjonen mellom 
 den som sitter på bakrommet og den som har pause og den som står i disken. Arduinoene kommuniserer via en RF24 
